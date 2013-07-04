@@ -1,0 +1,65 @@
+Procedure of creating events bookings
+=====================================
+
+EVENTS
+======
+- I Create event called BBQ along with its venue which can be mine
+- people can comment on the BBQ event
+- ability to say I am attending (reserve space)
+- ability to reserve spaces for guests
+- ability to have a cut off for each event e.g only 20 people or no restrictions
+- show how many people have reservered spaces
+- Manage my events
+
+
+SERVICES
+========
+- Users create a service called DJ
+- This service is now searchable
+- Ability to decide if service is available or not
+- When a DJ is booked on a specific date and specific time that DJ becomes unavailable automatically
+- A DJ can be request by date and time range e.g on tue between 1pm and 5pm
+- Manage my services
+
+
+VENUES
+======
+- Users can create a venue called Hackney Function Hall
+- Other users can request to book this venue
+- Or users can use their own venues for their events
+- when a user gets a venue request they can accept or decline
+- when the venue is one of the users venues it will be auto accepted
+
+TAGS
+=====
+- People can add tags to an event, venue or service
+
+USERS
+=====
+- Can create an account 
+- Create a profile
+- Create an event, venue or service
+- Send a request for an event venue or service
+- Accept a request for an event venue or service
+- Decline a request for an event venue or service
+- Can view other users' profiles
+- view event venue or service comments
+
+COMMENTS
+========
+- user can save a comment for a model
+
+PROFILES
+========
+- A user can create a profile
+- User can add a photo to their profile
+
+PHOTO
+=====
+- Users can add multiple images for each event venue or service
+- User can add a photo for their profile
+
+
+//Create a venue for the BBQ which is the name of the location
+//Ability to rent a venue
+//Ability to advertise a venue
